@@ -8,12 +8,12 @@ cabeçalho {
     }
     
     .cabecalho {
-    cor de fundo : #424E61 ;
-    cor : branco ;
-    exibição : flex ;
-    justificar-conteúdo : espaço-ao-redor ;
-    alinhar-itens : centro ;
-    preenchimento : 24px 0 ;
+    cordefundo : #424E61 ;
+    cor: branco ;
+    exibição: flex ;
+    justificar-conteúdo: espaço-ao-redor ;
+    alinhar-itens:centro;
+    preenchimento:24px 0 ;
     }
     
     .cabecalho-imagem {
@@ -23,7 +23,7 @@ cabeçalho {
     .cabecalho-lista-item {
     exibição : bloco embutido ;
     margem : 0 16px ;
-    tamanho da fonte : 20px ;
+    tamanhodafonte : 20px ;
     }
     
     .escola-imagem {
@@ -31,9 +31,9 @@ cabeçalho {
     }
     
     .escola {
-    imagem de fundo : gradiente linear ( #424E61 , #16CFF8 );
-    cor : branco ;
-    exibição : flex ;
+    imagemdefundo:gradiente linear ( #424E61 , #16CFF8 );
+    cor:branco;
+    exibição:flex ;
     justificar-conteúdo : centro ;
     alinhar-itens : centro ;
     preenchimento : 24px 0 ;
