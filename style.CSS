@@ -1,48 +1,51 @@
 cabeçalho {
-    fundo : cor #424e61 ;
-    cor : rgb ( 0 , 0 , 0 );
+    background : color #424e61 ;
+    color : rgb ( 0 , 0 , 0 );
     }
     * {
-    margem : 0 ;
-    preenchimento : 0 ;
+    margin : 0 ;
+    fill : 0 ;
     }
     
     .cabecalho {
-    cordefundo : #424E61 ;
-    cor: branco ;
-    exibição: flex ;
-    justificar-conteúdo: espaço-ao-redor ;
-    alinhar-itens:centro;
-    preenchimento:24px 0 ;
+    background : #424E61 ;
+    color: branco ;
+    display: flex ;
+    justify-content: espaço-ao-redor ;
+    align-content:centro;
+    fill:24px 0 ;
     }
     
     .cabecalho-imagem {
-    largura : 20% ;
+    
+    width : 20% ;
     }
     
     .cabecalho-lista-item {
-    exibição : bloco embutido ;
-    margem : 0 16px ;
-    tamanhodafonte : 20px ;
+    display : bloco embutido ;
+    margin : 0 16px ;
+    animation-name : 20px ;
     }
     
     .escola-imagem {
-    largura : 25% ;
+    
+    width : 25% ;
     }
     
     .escola {
-    imagemdefundo:gradiente linear ( #424E61 , #16CFF8 );
-    cor:branco;
-    exibição:flex ;
-    justificar-conteúdo : centro ;
-    alinhar-itens : centro ;
-    preenchimento : 24px 0 ;
+    image-rendering:gradiente linear ( #424E61 , #16CFF8 );
+    color:branco;
+    display:flex ;
+    justify-content : centro ;
+    align-content : centro ;
+    fill : 24px 0 ;
     }
     
     .escola-div-conteudo {
-    largura : 35% ;
+    
+    width : 35% ;
     }
     .escola-titulo {
-    preenchimento : 24px 0 ;
+    fill : 24px 0 ;
     }
     
